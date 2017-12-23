@@ -1,4 +1,7 @@
 # SS/SSR去广告规则
+
+*相对于原版，在banAD中添加了漫画人走代理而去除限制的规则
+
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 项目基于CC-BY-SA-4.0协议发布
 * 仅推荐未root的安卓手机使用。
