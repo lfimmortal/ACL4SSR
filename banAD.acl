@@ -6983,8 +6983,8 @@
 (^|\.)tvb\.com$
 (^|\.)mytvsuper\.com$
 (^|\.)dmm\.co\.jp$
-(^|\.)cloudmobi\.net$
-(^|\.)amazonaws\.com$
+#(^|\.)cloudmobi\.net$
+#(^|\.)amazonaws\.com$
 (^|\.)manhuaren\.com$
 
 # 国外域名关键字
